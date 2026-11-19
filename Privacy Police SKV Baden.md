@@ -37,7 +37,6 @@ The Data Controller within the meaning of the GDPR is:
 Sport- und Kulturverein Baden (SKV Baden)
 Association Register Number (ZVR): 1783777093
 Registered Seat: Baden, Austria
-Postal Address: Hauptplatz 17a/2/6, 2514 Traiskirchen, Austria
 Association Premises: Waltersdorfer Straße 49, 2500 Baden, Austria
 Email: skvbaden@gmail.com
 
@@ -140,7 +139,6 @@ Verantwortlicher im Sinne der DSGVO ist:
 Sport- und Kulturverein Baden (SKV Baden)
 ZVR-Zahl: 1783777093
 Sitz: Baden, Österreich
-Zustellanschrift: Hauptplatz 17a/2/6, 2514 Traiskirchen, Österreich
 Vereinslokal: Waltersdorfer Straße 49, 2500 Baden, Österreich
 E-Mail: skvbaden@gmail.com
 
